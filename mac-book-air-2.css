@@ -1,0 +1,347 @@
+.department-of2,
+.physical-education2 {
+  margin: 0;
+}
+.department-of-physical-container2 {
+  flex: 1;
+  position: relative;
+}
+.screenshot-2023-08-07-at-452-icon2 {
+  position: absolute;
+  margin: 0 !important;
+  top: -77px;
+  right: 79px;
+  width: 84px;
+  height: 78px;
+  object-fit: cover;
+  z-index: 1;
+}
+.text-p-e,
+.text-p-e-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text-p-e {
+  width: 232px;
+  flex-direction: row;
+  position: relative;
+}
+.text-p-e-wrapper {
+  width: 277px;
+  flex-direction: column;
+}
+.devadan-cup-20244 {
+  margin: 0;
+}
+.devadan-cup-2024-container2 {
+  position: relative;
+  display: inline-block;
+  height: 46px;
+  flex-shrink: 0;
+  max-width: 100%;
+  white-space: nowrap;
+}
+.venue-school-of2 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-mid);
+}
+.middle-frame,
+.text-school-name {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.text-school-name {
+  align-self: stretch;
+  align-items: center;
+  gap: var(--gap-2xs);
+}
+.middle-frame {
+  width: 681px;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-9xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-19xl);
+}
+.christ-without-bg-logo-1-12 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.frame-group,
+.frame-logo {
+  display: flex;
+  box-sizing: border-box;
+}
+.frame-logo {
+  width: 268px;
+  height: 101px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-sm);
+}
+.frame-group {
+  align-self: stretch;
+  background-color: var(--color-aliceblue-300);
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: var(--padding-2xl) var(--padding-17xl) var(--padding-2xs) 0;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.home5 {
+  margin: 0;
+}
+.home4 {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+  height: 46px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.contact-us-text3 {
+  width: 121px;
+  height: 39px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.about3 {
+  align-self: stretch;
+  position: relative;
+}
+.about-registration {
+  width: 97px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-sm) 0 0;
+  box-sizing: border-box;
+}
+.registration3 {
+  position: relative;
+  cursor: pointer;
+}
+.about-registration1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-sm) 0 0;
+}
+.contact-us2 {
+  position: relative;
+  display: inline-block;
+  width: 109px;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.header-frame1,
+.top-frame {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.header-frame1 {
+  background-color: var(--color-aliceblue-200);
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-smi) var(--padding-643xl) 0;
+  gap: var(--gap-11xl);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  font-size: var(--font-size-lg);
+}
+.top-frame {
+  flex-direction: column;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-mid);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.about4 {
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.about4,
+.as-the-devadan,
+.blank-line2,
+.blank-line3,
+.blank-line4,
+.blank-line5,
+.blank-line6,
+.blank-line7,
+.in-addition-to,
+.one-of-the,
+.spectators-play-a,
+.the-devadan-cup2,
+.the-devadan-cup3,
+.the-inter-college-nature {
+  margin: 0;
+}
+.the-devadan-cup-container1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+.organizer-frame,
+.text-organized-by-c-h-r-i-s-t {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.text-organized-by-c-h-r-i-s-t {
+  flex: 1;
+  background-color: var(--color-aliceblue-100);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-20xl) var(--padding-22xl) 427px var(--padding-23xl);
+  gap: var(--gap-56xl);
+  text-align: center;
+  font-size: var(--font-size-36xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.organizer-frame {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0;
+}
+.organized-by-christdeemed2 {
+  margin: 0;
+}
+.organized-by-christdeemed-container2 {
+  width: 838px;
+  height: 36px;
+  flex-shrink: 0;
+}
+.devadan-cup-20245,
+.organized-by-christdeemed-container2 {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.organized-by-christdeemed-to-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.macbook-air-2 {
+  position: relative;
+  background-color: var(--color-gainsboro-300);
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-xs);
+  box-sizing: border-box;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1350px) {
+  .frame-group {
+    flex-wrap: wrap;
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .header-frame1 {
+    padding-left: var(--padding-312xl);
+    padding-right: var(--padding-312xl);
+    box-sizing: border-box;
+  }
+  .text-organized-by-c-h-r-i-s-t {
+    padding-top: var(--padding-6xl);
+    padding-bottom: 278px;
+    box-sizing: border-box;
+  }
+  .organized-by-christdeemed-to-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1150px) {
+  .text-organized-by-c-h-r-i-s-t {
+    gap: var(--gap-18xl);
+    padding-left: var(--padding-2xl);
+    padding-top: var(--padding-xl);
+    padding-bottom: 181px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 800px) {
+  .header-frame1 {
+    gap: var(--gap-mini);
+    padding-left: var(--padding-146xl);
+    padding-right: var(--padding-146xl);
+    box-sizing: border-box;
+  }
+  .about4 {
+    font-size: var(--font-size-25xl);
+  }
+  .the-devadan-cup-container1 {
+    font-size: var(--font-size-5xl);
+  }
+  .text-organized-by-c-h-r-i-s-t {
+    gap: var(--gap-lgi);
+  }
+}
+@media screen and (max-width: 450px) {
+  .header-frame1 {
+    display: none;
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .about4 {
+    font-size: var(--font-size-14xl);
+  }
+  .the-devadan-cup-container1 {
+    font-size: var(--font-size-lg);
+  }
+  .text-organized-by-c-h-r-i-s-t {
+    padding-bottom: 118px;
+    box-sizing: border-box;
+  }
+  .devadan-cup-20245,
+  .organized-by-christdeemed-container2 {
+    font-size: var(--font-size-lg);
+  }
+}

@@ -1,0 +1,1079 @@
+.department-of1,
+.physical-education1 {
+  margin: 0;
+}
+.department-of-physical-container1 {
+  flex: 1;
+  position: relative;
+}
+.screenshot-2023-08-07-at-452-icon1 {
+  position: absolute;
+  margin: 0 !important;
+  top: -77px;
+  right: 79px;
+  width: 84px;
+  height: 78px;
+  object-fit: cover;
+  z-index: 1;
+}
+.chess-frame,
+.football-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.football-frame {
+  width: 232px;
+  flex-direction: row;
+  position: relative;
+}
+.chess-frame {
+  width: 277px;
+  flex-direction: column;
+}
+.devadan-cup-20242 {
+  margin: 0;
+}
+.devadan-cup-2024-container1 {
+  position: relative;
+  display: inline-block;
+  height: 46px;
+  flex-shrink: 0;
+  max-width: 100%;
+  white-space: nowrap;
+}
+.venue-school-of1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-mid);
+}
+.background-frame,
+.physical-education-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.physical-education-text {
+  align-self: stretch;
+  align-items: center;
+  gap: var(--gap-2xs);
+}
+.background-frame {
+  width: 681px;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-9xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-19xl);
+}
+.christ-without-bg-logo-1-11 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.logo-rectangle {
+  width: 268px;
+  height: 101px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-sm);
+  box-sizing: border-box;
+}
+.basketball-frame {
+  align-self: stretch;
+  background-color: var(--color-aliceblue-300);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: var(--padding-2xl) var(--padding-17xl) var(--padding-2xs) 0;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.home3 {
+  margin: 0;
+}
+.home2 {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+  height: 46px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.chess-hockey-register {
+  width: 121px;
+  height: 39px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.about2 {
+  align-self: stretch;
+  position: relative;
+  cursor: pointer;
+}
+.contact-us-text1 {
+  width: 97px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-sm) 0 0;
+  box-sizing: border-box;
+}
+.registration1 {
+  position: relative;
+}
+.contact-us-text2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-sm) 0 0;
+}
+.contact-us1 {
+  position: relative;
+  display: inline-block;
+  width: 109px;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.home-text,
+.registration-frame {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.home-text {
+  background-color: var(--color-aliceblue-200);
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-smi) var(--padding-643xl) 0;
+  gap: var(--gap-11xl);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  font-size: var(--font-size-lg);
+}
+.registration-frame {
+  flex-direction: column;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-mid);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.registration2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 368px;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.registration-frame1 {
+  width: 415px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.basketball,
+.register {
+  position: relative;
+}
+.register {
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: center;
+}
+.register-button-frame1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mid) var(--padding-xl) var(--padding-4xl)
+    var(--padding-2xl);
+  background-color: var(--color-lightblue);
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.football-lawn-tennis-register:hover,
+.frame-button:hover,
+.register-button-frame1:hover,
+.register-container:hover,
+.register-frame:hover,
+.register-wrapper1:hover,
+.register-wrapper2:hover,
+.register-wrapper3:hover,
+.register-wrapper4:hover,
+.register-wrapper5:hover,
+.register-wrapper:hover {
+  background-color: var(--color-silver);
+}
+.register-button-frame {
+  flex: 1;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-300xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-19xl);
+  min-width: 289px;
+  max-width: 100%;
+}
+.chess,
+.register1 {
+  position: relative;
+}
+.register1 {
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: center;
+}
+.football-lawn-tennis-register {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mid) var(--padding-xl) var(--padding-4xl)
+    var(--padding-2xl);
+  background-color: var(--color-lightblue);
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.cricket-kabaddi-register-frame,
+.register-button-frame2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.cricket-kabaddi-register-frame {
+  align-self: stretch;
+  background-color: var(--color-white);
+  overflow: hidden;
+  align-items: center;
+  padding: var(--padding-300xl) 0 0;
+  gap: var(--gap-19xl);
+}
+.register-button-frame2 {
+  flex: 0.9847;
+  align-items: flex-start;
+  padding: 0 var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  min-width: 361px;
+  max-width: 100%;
+}
+.cricket,
+.register2 {
+  position: relative;
+}
+.register2 {
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: center;
+}
+.register-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mid) var(--padding-xl) var(--padding-4xl)
+    var(--padding-2xl);
+  background-color: var(--color-lightblue);
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.cricket-parent,
+.venue-frames {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.cricket-parent {
+  align-self: stretch;
+  background-color: var(--color-white);
+  overflow: hidden;
+  align-items: center;
+  padding: var(--padding-300xl) 0 0;
+  gap: var(--gap-19xl);
+}
+.venue-frames {
+  flex: 0.9847;
+  align-items: flex-start;
+  padding: 0 var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  min-width: 361px;
+  max-width: 100%;
+}
+.football,
+.register3 {
+  position: relative;
+}
+.register3 {
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: center;
+}
+.register-container {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mid) var(--padding-xl) var(--padding-4xl)
+    var(--padding-2xl);
+  background-color: var(--color-lightblue);
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.register-button-frame3 {
+  flex: 1;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-300xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-19xl);
+  min-width: 289px;
+  max-width: 100%;
+}
+.basketball-handler-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-34xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.handball,
+.register4 {
+  position: relative;
+}
+.register4 {
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: center;
+}
+.register-frame {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mid) var(--padding-xl) var(--padding-4xl)
+    var(--padding-2xl);
+  background-color: var(--color-lightblue);
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.handball-parent {
+  flex: 1;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-300xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-19xl);
+  min-width: 289px;
+  max-width: 100%;
+}
+.hockey,
+.register5 {
+  position: relative;
+}
+.register5 {
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: center;
+}
+.frame-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mid) var(--padding-xl) var(--padding-4xl)
+    var(--padding-2xl);
+  background-color: var(--color-lightblue);
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.basketball-handler-frame-inner,
+.hockey-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.hockey-parent {
+  align-self: stretch;
+  background-color: var(--color-white);
+  overflow: hidden;
+  align-items: center;
+  padding: var(--padding-300xl) 0 0;
+  gap: var(--gap-19xl);
+}
+.basketball-handler-frame-inner {
+  flex: 0.9847;
+  align-items: flex-start;
+  padding: 0 var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  min-width: 361px;
+  max-width: 100%;
+}
+.kabaddi,
+.register6 {
+  position: relative;
+}
+.register6 {
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: center;
+}
+.register-wrapper1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mid) var(--padding-xl) var(--padding-4xl)
+    var(--padding-2xl);
+  background-color: var(--color-lightblue);
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.basketball-handler-frame-child,
+.kabaddi-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.kabaddi-parent {
+  align-self: stretch;
+  background-color: var(--color-white);
+  overflow: hidden;
+  align-items: center;
+  padding: var(--padding-300xl) 0 0;
+  gap: var(--gap-19xl);
+}
+.basketball-handler-frame-child {
+  flex: 0.9847;
+  align-items: flex-start;
+  padding: 0 var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  min-width: 361px;
+  max-width: 100%;
+}
+.lawn-tennis,
+.register7 {
+  position: relative;
+}
+.register7 {
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: center;
+}
+.register-wrapper2 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mid) var(--padding-xl) var(--padding-4xl)
+    var(--padding-2xl);
+  background-color: var(--color-lightblue);
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.lawn-tennis-parent {
+  flex: 1;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-300xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-19xl);
+  min-width: 289px;
+  max-width: 100%;
+}
+.basketball-handler-frame1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-34xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.register8,
+.throwball {
+  position: relative;
+}
+.register8 {
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: center;
+}
+.register-wrapper3 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mid) var(--padding-xl) var(--padding-4xl)
+    var(--padding-2xl);
+  background-color: var(--color-lightblue);
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.throwball-parent {
+  flex: 1;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-300xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-19xl);
+  min-width: 289px;
+  max-width: 100%;
+}
+.register9,
+.table-tennis {
+  position: relative;
+}
+.register9 {
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: center;
+}
+.register-wrapper4 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mid) var(--padding-xl) var(--padding-4xl)
+    var(--padding-2xl);
+  background-color: var(--color-lightblue);
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame-wrapper,
+.table-tennis-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.table-tennis-parent {
+  align-self: stretch;
+  background-color: var(--color-white);
+  overflow: hidden;
+  align-items: center;
+  padding: var(--padding-300xl) 0 0;
+  gap: var(--gap-19xl);
+}
+.frame-wrapper {
+  flex: 0.9847;
+  align-items: flex-start;
+  padding: 0 var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  min-width: 294px;
+  max-width: 100%;
+}
+.register10,
+.volleyball {
+  position: relative;
+}
+.register10 {
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: center;
+}
+.register-wrapper5 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mid) var(--padding-xl) var(--padding-4xl)
+    var(--padding-2xl);
+  background-color: var(--color-lightblue);
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.volleyball-parent {
+  flex: 1;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-300xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-19xl);
+  min-width: 289px;
+  max-width: 100%;
+}
+.frame-parent,
+.sports-frame-inner {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent {
+  width: 1270px;
+  justify-content: center;
+  gap: var(--gap-34xl);
+}
+.sports-frame-inner {
+  width: 1323px;
+  justify-content: flex-end;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.registration-text,
+.sports-frame {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.sports-frame {
+  flex: 1;
+  background-color: var(--color-aliceblue-100);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 49px 130px 182px 78px;
+  gap: 60px;
+  text-align: center;
+  font-size: 56px;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.registration-text {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0;
+}
+.organized-by-christdeemed1 {
+  margin: 0;
+}
+.organized-by-christdeemed-container1 {
+  width: 838px;
+  height: 36px;
+  flex-shrink: 0;
+}
+.devadan-cup-20243,
+.organized-by-christdeemed-container1 {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.macbook-air-3,
+.university-logo {
+  display: flex;
+  box-sizing: border-box;
+}
+.university-logo {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  gap: var(--gap-xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.macbook-air-3 {
+  position: relative;
+  background-color: var(--color-gainsboro-300);
+  width: 100%;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-xs);
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1350px) {
+  .basketball-frame {
+    flex-wrap: wrap;
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .basketball-handler-frame,
+  .basketball-handler-frame1,
+  .university-logo {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1150px) {
+  .home-text {
+    padding-left: var(--padding-312xl);
+    padding-right: var(--padding-312xl);
+    box-sizing: border-box;
+  }
+  .frame-parent {
+    flex-wrap: wrap;
+  }
+  .sports-frame {
+    gap: var(--gap-11xl);
+    padding: var(--padding-2xl) 65px 77px var(--padding-20xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 800px) {
+  .home-text {
+    gap: var(--gap-mini);
+    padding-left: var(--padding-146xl);
+    padding-right: var(--padding-146xl);
+    box-sizing: border-box;
+  }
+  .registration2 {
+    font-size: 45px;
+  }
+  .basketball {
+    font-size: var(--font-size-9xl);
+  }
+  .register {
+    font-size: var(--font-size-5xl);
+  }
+  .register-button-frame {
+    padding-top: var(--padding-188xl);
+    box-sizing: border-box;
+  }
+  .chess {
+    font-size: var(--font-size-9xl);
+  }
+  .register1 {
+    font-size: var(--font-size-5xl);
+  }
+  .cricket-kabaddi-register-frame {
+    padding-top: var(--padding-188xl);
+    box-sizing: border-box;
+  }
+  .register-button-frame2 {
+    min-width: 100%;
+  }
+  .cricket {
+    font-size: var(--font-size-9xl);
+  }
+  .register2 {
+    font-size: var(--font-size-5xl);
+  }
+  .cricket-parent {
+    padding-top: var(--padding-188xl);
+    box-sizing: border-box;
+  }
+  .venue-frames {
+    min-width: 100%;
+  }
+  .football {
+    font-size: var(--font-size-9xl);
+  }
+  .register3 {
+    font-size: var(--font-size-5xl);
+  }
+  .register-button-frame3 {
+    padding-top: var(--padding-188xl);
+    box-sizing: border-box;
+  }
+  .basketball-handler-frame {
+    gap: var(--gap-7xl);
+  }
+  .handball {
+    font-size: var(--font-size-9xl);
+  }
+  .register4 {
+    font-size: var(--font-size-5xl);
+  }
+  .handball-parent {
+    padding-top: var(--padding-188xl);
+    box-sizing: border-box;
+  }
+  .hockey {
+    font-size: var(--font-size-9xl);
+  }
+  .register5 {
+    font-size: var(--font-size-5xl);
+  }
+  .hockey-parent {
+    padding-top: var(--padding-188xl);
+    box-sizing: border-box;
+  }
+  .basketball-handler-frame-inner {
+    min-width: 100%;
+  }
+  .kabaddi {
+    font-size: var(--font-size-9xl);
+  }
+  .register6 {
+    font-size: var(--font-size-5xl);
+  }
+  .kabaddi-parent {
+    padding-top: var(--padding-188xl);
+    box-sizing: border-box;
+  }
+  .basketball-handler-frame-child {
+    min-width: 100%;
+  }
+  .lawn-tennis {
+    font-size: var(--font-size-9xl);
+  }
+  .register7 {
+    font-size: var(--font-size-5xl);
+  }
+  .lawn-tennis-parent {
+    padding-top: var(--padding-188xl);
+    box-sizing: border-box;
+  }
+  .basketball-handler-frame1 {
+    gap: var(--gap-7xl);
+  }
+  .throwball {
+    font-size: var(--font-size-9xl);
+  }
+  .register8 {
+    font-size: var(--font-size-5xl);
+  }
+  .throwball-parent {
+    padding-top: var(--padding-188xl);
+    box-sizing: border-box;
+  }
+  .table-tennis {
+    font-size: var(--font-size-9xl);
+  }
+  .register9 {
+    font-size: var(--font-size-5xl);
+  }
+  .table-tennis-parent {
+    padding-top: var(--padding-188xl);
+    box-sizing: border-box;
+  }
+  .volleyball {
+    font-size: var(--font-size-9xl);
+  }
+  .register10 {
+    font-size: var(--font-size-5xl);
+  }
+  .volleyball-parent {
+    padding-top: var(--padding-188xl);
+    box-sizing: border-box;
+  }
+  .frame-parent {
+    gap: var(--gap-7xl);
+  }
+  .sports-frame {
+    gap: var(--gap-mini);
+    padding-top: var(--padding-xl);
+    padding-right: var(--padding-13xl);
+    padding-bottom: 50px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .home-text {
+    display: none;
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .registration2 {
+    font-size: var(--font-size-15xl);
+  }
+  .basketball {
+    font-size: var(--font-size-2xl);
+  }
+  .register {
+    font-size: var(--font-size-lg);
+  }
+  .register-button-frame {
+    gap: var(--gap-lgi);
+  }
+  .chess {
+    font-size: var(--font-size-2xl);
+  }
+  .register1 {
+    font-size: var(--font-size-lg);
+  }
+  .cricket-kabaddi-register-frame {
+    gap: var(--gap-lgi);
+  }
+  .register-button-frame2 {
+    flex: 1;
+  }
+  .cricket {
+    font-size: var(--font-size-2xl);
+  }
+  .register2 {
+    font-size: var(--font-size-lg);
+  }
+  .cricket-parent {
+    gap: var(--gap-lgi);
+  }
+  .venue-frames {
+    flex: 1;
+  }
+  .football {
+    font-size: var(--font-size-2xl);
+  }
+  .register3 {
+    font-size: var(--font-size-lg);
+  }
+  .register-button-frame3 {
+    gap: var(--gap-lgi);
+  }
+  .handball {
+    font-size: var(--font-size-2xl);
+  }
+  .register4 {
+    font-size: var(--font-size-lg);
+  }
+  .handball-parent {
+    gap: var(--gap-lgi);
+  }
+  .hockey {
+    font-size: var(--font-size-2xl);
+  }
+  .register5 {
+    font-size: var(--font-size-lg);
+  }
+  .hockey-parent {
+    gap: var(--gap-lgi);
+  }
+  .basketball-handler-frame-inner {
+    flex: 1;
+  }
+  .kabaddi {
+    font-size: var(--font-size-2xl);
+  }
+  .register6 {
+    font-size: var(--font-size-lg);
+  }
+  .kabaddi-parent {
+    gap: var(--gap-lgi);
+  }
+  .basketball-handler-frame-child {
+    flex: 1;
+  }
+  .lawn-tennis {
+    font-size: var(--font-size-2xl);
+  }
+  .register7 {
+    font-size: var(--font-size-lg);
+  }
+  .lawn-tennis-parent {
+    gap: var(--gap-lgi);
+  }
+  .throwball {
+    font-size: var(--font-size-2xl);
+  }
+  .register8 {
+    font-size: var(--font-size-lg);
+  }
+  .throwball-parent {
+    gap: var(--gap-lgi);
+  }
+  .table-tennis {
+    font-size: var(--font-size-2xl);
+  }
+  .register9 {
+    font-size: var(--font-size-lg);
+  }
+  .table-tennis-parent {
+    gap: var(--gap-lgi);
+  }
+  .frame-wrapper {
+    flex: 1;
+  }
+  .volleyball {
+    font-size: var(--font-size-2xl);
+  }
+  .register10 {
+    font-size: var(--font-size-lg);
+  }
+  .volleyball-parent {
+    gap: var(--gap-lgi);
+  }
+  .devadan-cup-20243,
+  .organized-by-christdeemed-container1 {
+    font-size: var(--font-size-lg);
+  }
+}

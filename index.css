@@ -16,18 +16,18 @@
   object-fit: cover;
   z-index: 1;
 }
-.department-of-physical-educat-parent,
-.frame-wrapper {
+.dep-ed-text,
+.second-child-frame {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.department-of-physical-educat-parent {
+.dep-ed-text {
   width: 232px;
   flex-direction: row;
   position: relative;
 }
-.frame-wrapper {
+.second-child-frame {
   width: 277px;
   flex-direction: column;
 }
@@ -47,24 +47,24 @@
   position: relative;
   font-size: var(--font-size-mid);
 }
-.devadan-cup-2024-parent,
-.frame-container {
+.first-frame,
+.second-frame {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
   max-width: 100%;
 }
-.devadan-cup-2024-parent {
+.second-frame {
   align-self: stretch;
   align-items: center;
-  gap: 11px;
+  gap: var(--gap-2xs);
 }
-.frame-container {
+.first-frame {
   width: 681px;
   align-items: flex-start;
-  padding: 0 0 4px;
+  padding: 0 0 var(--padding-9xs);
   box-sizing: border-box;
-  font-size: 38px;
+  font-size: var(--font-size-19xl);
 }
 .christ-without-bg-logo-1-1 {
   align-self: stretch;
@@ -76,7 +76,7 @@
   object-fit: cover;
   z-index: 1;
 }
-.christ-without-bg-logo-1-1-wrapper {
+.logo-container {
   width: 268px;
   height: 101px;
   display: flex;
@@ -86,30 +86,30 @@
   padding: 0 0 var(--padding-sm);
   box-sizing: border-box;
 }
-.frame-group {
+.first-child-frame {
   align-self: stretch;
-  background-color: rgba(236, 239, 244, 0.82);
+  background-color: var(--color-aliceblue-300);
   overflow: hidden;
   display: flex;
   flex-direction: row;
   align-items: flex-end;
   justify-content: space-between;
-  padding: var(--padding-2xl) 36px 11px 0;
+  padding: var(--padding-2xl) var(--padding-17xl) var(--padding-2xs) 0;
   box-sizing: border-box;
   gap: var(--gap-xl);
   max-width: 100%;
 }
-.home2 {
+.home1 {
   margin: 0;
 }
-.home1 {
+.home {
   align-self: stretch;
   position: relative;
   display: inline-block;
   height: 46px;
   flex-shrink: 0;
 }
-.home-container {
+.contact-us-text {
   width: 121px;
   height: 39px;
   display: flex;
@@ -124,7 +124,7 @@
   position: relative;
   cursor: pointer;
 }
-.about-wrapper {
+.about-registration-text {
   width: 97px;
   display: flex;
   flex-direction: column;
@@ -137,7 +137,7 @@
   position: relative;
   cursor: pointer;
 }
-.registration-wrapper {
+.about-registration-text1 {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -151,229 +151,31 @@
   flex-shrink: 0;
   white-space: nowrap;
 }
-.frame-div,
-.frame-parent {
+.header-frame,
+.parent-frame {
   align-self: stretch;
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.frame-div {
-  background-color: #deeaee;
+.header-frame {
+  background-color: var(--color-aliceblue-200);
   overflow: hidden;
   flex-direction: row;
-  padding: 13px 662px 0;
-  gap: 30px;
+  padding: var(--padding-smi) var(--padding-643xl) 0;
+  gap: var(--gap-11xl);
   top: 0;
   z-index: 99;
   position: sticky;
   font-size: var(--font-size-lg);
 }
-.frame-parent {
+.parent-frame {
   flex-direction: column;
-  min-height: 194px;
   max-width: 100%;
   text-align: center;
   font-size: var(--font-size-mid);
   color: var(--color-black);
   font-family: var(--font-inter);
-}
-.image-icon,
-.image-icon1 {
-  align-self: stretch;
-  position: relative;
-  max-width: 100%;
-  overflow: hidden;
-  max-height: 100%;
-  object-fit: cover;
-}
-.image-icon {
-  width: 1920px;
-  flex-shrink: 0;
-  min-height: 1080px;
-}
-.image-icon1 {
-  margin-top: -1594px;
-}
-.image-wrapper {
-  width: 1920px;
-  flex-shrink: 0;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-start;
-  padding: 1609px 0 0;
-  box-sizing: border-box;
-  max-width: 100%;
-}
-.image-icon2,
-.image-icon3,
-.image-icon4 {
-  align-self: stretch;
-  position: relative;
-  max-height: 100%;
-  width: 1920px;
-  overflow: hidden;
-  flex-shrink: 0;
-  object-fit: cover;
-  min-height: 1080px;
-  max-width: 100%;
-}
-.image-frame,
-.images {
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  justify-content: flex-start;
-  max-width: 100%;
-}
-.images {
-  width: 1920px;
-  overflow-x: auto;
-  flex-shrink: 0;
-}
-.image-frame {
-  position: absolute;
-  top: 0;
-  left: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-.slider-dot {
-  position: relative;
-  width: 20px;
-  height: 20px;
-}
-.dot {
-  width: 32px;
-  height: 32px;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-}
-.slider-dot1 {
-  position: relative;
-  width: 16px;
-  height: 16px;
-}
-.dot1 {
-  width: 32px;
-  height: 32px;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-}
-.slider-dot2 {
-  position: relative;
-  width: 16px;
-  height: 16px;
-}
-.dot2 {
-  width: 32px;
-  height: 32px;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-}
-.slider-dot3 {
-  position: relative;
-  width: 16px;
-  height: 16px;
-}
-.dot3 {
-  width: 32px;
-  height: 32px;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-}
-.slider-dot4 {
-  position: relative;
-  width: 16px;
-  height: 16px;
-}
-.dot4,
-.slider {
-  display: flex;
-  flex-direction: row;
-}
-.dot4 {
-  width: 32px;
-  height: 32px;
-  align-items: center;
-  justify-content: center;
-}
-.slider {
-  position: absolute;
-  top: 1000px;
-  left: 832px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: 24px;
-  z-index: 1;
-}
-.left-icon {
-  position: relative;
-  width: 24px;
-  height: 24px;
-}
-.slider1 {
-  border-radius: var(--br-21xl);
-  background-color: var(--white-15);
-  backdrop-filter: blur(28px);
-  width: 40px;
-  height: 40px;
-  overflow: hidden;
-  flex-shrink: 0;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-}
-.right-icon {
-  position: relative;
-  width: 24px;
-  height: 24px;
-}
-.arrows,
-.slider2 {
-  display: flex;
-  flex-direction: row;
-}
-.slider2 {
-  border-radius: var(--br-21xl);
-  background-color: var(--white-15);
-  backdrop-filter: blur(28px);
-  width: 40px;
-  height: 40px;
-  overflow: hidden;
-  flex-shrink: 0;
-  align-items: center;
-  justify-content: center;
-}
-.arrows {
-  position: absolute;
-  top: 520px;
-  left: 120px;
-  width: 1680px;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: var(--gap-xl);
-  max-width: 100%;
-  z-index: 1;
-}
-.image-slider {
-  align-self: stretch;
-  position: relative;
-  background-color: var(--color-white);
-  height: 1065px;
-  overflow: hidden;
-  flex-shrink: 0;
-  max-width: 100%;
 }
 .about1 {
   position: relative;
@@ -382,8 +184,8 @@
   font-family: inherit;
 }
 .about1,
-.blank-line2,
-.blank-line3,
+.blank-line,
+.blank-line1,
 .the-devadan-cup,
 .the-devadan-cup1 {
   margin: 0;
@@ -392,21 +194,22 @@
   margin: 0;
   align-self: stretch;
   position: relative;
-  font-size: 30px;
+  font-size: var(--font-size-11xl);
   font-weight: 400;
   font-family: inherit;
   text-align: left;
 }
-.about-parent {
+.c-h-r-i-s-t-university-text {
   align-self: stretch;
-  background-color: #eceff4;
+  background-color: var(--color-aliceblue-100);
   overflow: hidden;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  padding: var(--padding-20xl) 41px var(--padding-20xl) 42px;
-  gap: 75px;
+  padding: var(--padding-20xl) var(--padding-22xl) var(--padding-20xl)
+    var(--padding-23xl);
+  gap: var(--gap-56xl);
 }
 .organized-by-christdeemed {
   margin: 0;
@@ -422,7 +225,7 @@
   display: inline-block;
   max-width: 100%;
 }
-.organized-by-christdeemed-to-parent {
+.second-child-frame-c {
   flex: 1;
   display: flex;
   flex-direction: row;
@@ -431,13 +234,13 @@
   gap: var(--gap-xl);
   max-width: 100%;
 }
-.frame-footer,
-.frame-parent1 {
+.about-the-cup-text,
+.first-child-frame-c {
   display: flex;
   justify-content: flex-start;
   max-width: 100%;
 }
-.frame-footer {
+.first-child-frame-c {
   align-self: stretch;
   flex-direction: row;
   align-items: flex-start;
@@ -448,98 +251,98 @@
   color: var(--color-black);
   font-family: var(--font-inter);
 }
-.frame-parent1 {
+.about-the-cup-text {
   flex: 1;
   flex-direction: column;
   align-items: center;
   gap: 21px;
 }
 .macbook-air-1,
-.macbook-air-1-inner {
+.second-child-frame-b {
   display: flex;
   align-items: flex-start;
   box-sizing: border-box;
 }
-.macbook-air-1-inner {
+.second-child-frame-b {
   align-self: stretch;
   flex-direction: row;
   justify-content: flex-end;
   padding: 0;
   max-width: 100%;
   text-align: center;
-  font-size: 55px;
+  font-size: var(--font-size-36xl);
   color: var(--color-black);
   font-family: var(--font-inter);
 }
 .macbook-air-1 {
   position: relative;
-  background-color: #d8dee9;
+  background-color: var(--color-gainsboro-300);
   width: 100%;
   overflow: hidden;
   flex-direction: column;
   justify-content: flex-start;
   padding: 0 0 var(--padding-xs);
+  gap: 280px;
   letter-spacing: normal;
 }
 @media screen and (max-width: 1350px) {
-  .frame-group {
+  .first-child-frame {
     flex-wrap: wrap;
     padding-left: var(--padding-xl);
     padding-right: var(--padding-xl);
     box-sizing: border-box;
   }
-  .frame-div {
+  .header-frame {
     padding-left: var(--padding-312xl);
     padding-right: var(--padding-312xl);
     box-sizing: border-box;
   }
-  .organized-by-christdeemed-to-parent {
+  .second-child-frame-c {
     flex-wrap: wrap;
   }
 }
 @media screen and (max-width: 1150px) {
-  .about-parent {
-    gap: 37px;
+  .c-h-r-i-s-t-university-text {
+    gap: var(--gap-18xl);
     padding-left: var(--padding-2xl);
     box-sizing: border-box;
   }
+  .macbook-air-1 {
+    gap: 140px;
+  }
 }
 @media screen and (max-width: 800px) {
-  .frame-div {
-    gap: 15px;
+  .header-frame {
+    gap: var(--gap-mini);
     padding-left: var(--padding-146xl);
     padding-right: var(--padding-146xl);
     box-sizing: border-box;
   }
   .about1 {
-    font-size: 44px;
+    font-size: var(--font-size-25xl);
   }
   .the-devadan-cup-container {
     font-size: var(--font-size-5xl);
   }
-  .about-parent {
-    gap: 19px;
+  .c-h-r-i-s-t-university-text {
+    gap: var(--gap-lgi);
     padding-top: var(--padding-6xl);
     padding-bottom: var(--padding-6xl);
     box-sizing: border-box;
   }
+  .macbook-air-1 {
+    gap: 70px;
+  }
 }
 @media screen and (max-width: 450px) {
-  .frame-div {
+  .header-frame {
     display: none;
     padding-left: var(--padding-xl);
     padding-right: var(--padding-xl);
     box-sizing: border-box;
   }
-  .arrows {
-    flex-wrap: wrap;
-  }
-  .image-slider {
-    height: auto;
-    min-height: 1065;
-  }
   .about1 {
-    font-size: 33px;
+    font-size: var(--font-size-14xl);
   }
   .devadan-cup-20241,
   .organized-by-christdeemed-container,
