@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  inset: 0;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-aclonica: Aclonica;
+  --font-acme: Acme;
+  --font-instagram-sans-condensed: "Instagram Sans Condensed";
+  --font-heebo: Heebo;
+  --font-neue-montreal: "Neue Montreal";
+
+  /* font sizes */
+  --font-size-mini: 15px;
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --font-size-15xl: 34px;
+  --font-size-17xl: 36px;
+  --font-size-29xl: 48px;
+  --font-size-13xl: 32px;
+  --font-size-xs: 12px;
+  --font-size-4xl: 23px;
+  --font-size-lg: 18px;
+  --font-size-mid: 17px;
+
+  /* Colors */
+  --color-gray-100: #050505;
+  --white-15: rgba(255, 255, 255, 0.15);
+  --color-black: #000;
+  --color-gainsboro-100: #e2e2e2;
+  --color-gainsboro-200: #d9d9d9;
+  --color-mediumpurple: #8f5db6;
+  --color-white: #fff;
+  --color-whitesmoke: #f2f2f2;
+  --color-blueviolet-100: #981ff6;
+  --color-blueviolet-200: #892cd9;
+  --color-mediumorchid: #954fcd;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+  --gap-xl: 20px;
+
+  /* Paddings */
+  --padding-xs: 12px;
+  --padding-base: 16px;
+  --padding-mid: 17px;
+  --padding-13xl: 32px;
+  --padding-8xl: 27px;
+  --padding-20xl: 39px;
+  --padding-6xl: 25px;
+  --padding-2xl: 21px;
+  --padding-xl: 20px;
+  --padding-146xl: 165px;
+  --padding-312xl: 331px;
+  --padding-sm: 14px;
+
+  /* Border radiuses */
+  --br-27xl: 46px;
+  --br-19xl: 38px;
+  --br-12xl-5: 31.5px;
+  --br-21xl: 40px;
+}
